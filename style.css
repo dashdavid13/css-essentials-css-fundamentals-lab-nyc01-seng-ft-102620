@@ -11,8 +11,24 @@ h1 {
 nav {
   padding: 10px;
   text-align: center;
-  color: grey;
+  
 }
+
+   a[href] {
+
+
+  color: #940000;
+
+
+  background-color: #E0E0E0;
+
+
+  text-decoration: none;
+
+
+}
+
+
 img {
   display: block;
   margin-left: auto;

@@ -40,6 +40,6 @@ footer {
   width: 100%;
 }
 
-#details{
+#details >div {
   float: left; 
 }

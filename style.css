@@ -43,3 +43,6 @@ figcaption {
   width: 25%;
   text-align: center;
 }
+section a {
+  background-color: red;
+}

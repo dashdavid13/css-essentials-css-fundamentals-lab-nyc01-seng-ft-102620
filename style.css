@@ -25,6 +25,10 @@ img {
   margin-right: auto;
   width: 50%;
 }
+figcaption {
+  text-align: center;
+  
+} 
 #featured-property p {
    width: 800px;
   margin-left: auto;
